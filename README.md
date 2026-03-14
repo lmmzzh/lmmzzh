@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm lmmzzh
 
-<!--
-**lmmzzh/lmmzzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior iOS engineer exploring AI-assisted delivery, low-risk iteration, and reusable workflows for real mobile projects.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-assisted project delivery in real mobile apps
+- Low-risk iteration in legacy iOS projects
+- Planning, handoff, and risk-boundary workflows
+- Reusable templates for continuous delivery
+
+## What I'm Building
+
+I am documenting and organizing one practical topic:
+
+how experienced engineers can use AI to deliver real projects more clearly, more safely, and with better reuse.
+
+That includes:
+
+- planning before coding
+- defining risk boundaries
+- separating structural cleanup from behavior changes
+- writing better handoff and retrospective docs
+- turning repeatable work into templates and small workflow assets
+
+## Repositories
+
+- `ios-ai-delivery-workflow`
+  notes, templates, and experiments for AI-assisted project delivery
+
+## Writing
+
+I write about:
+
+- AI in real engineering workflows
+- legacy project iteration
+- mobile engineering methods
+- planning, handoff, and delivery systems
+
+## Principles
+
+- reality over hype
+- low-risk iteration over unnecessary rewrites
+- reuse over repetition
+- clear documentation over fragile context
+
+## Contact
+
+If you are exploring similar topics, feel free to connect.
